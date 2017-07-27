@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2016-06-28T19:25:08</Created>
+	<LastChange>2016-06-28T19:25:08</LastChange></Metadata>
+	<Page imageFilename="07-crop-bw.tif" imageWidth="2823" imageHeight="4891">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	<Word id="tempWord357564684568544579089">
+	<Coords>
+	<Point x="0" y="0"/>
+	<Point x="1" y="0"/>
+	<Point x="1" y="1"/>
+	<Point x="0" y="1"/></Coords>
+	<Glyph id="r1599">
+	<Coords>
+	<Point x="1809" y="1787"/>
+	<Point x="1851" y="1787"/>
+	<Point x="1861" y="1790"/>
+	<Point x="1874" y="1790"/>
+	<Point x="1870" y="1800"/>
+	<Point x="1864" y="1809"/>
+	<Point x="1861" y="1822"/>
+	<Point x="1861" y="1835"/>
+	<Point x="1858" y="1845"/>
+	<Point x="1851" y="1858"/>
+	<Point x="1851" y="1870"/>
+	<Point x="1845" y="1880"/>
+	<Point x="1841" y="1890"/>
+	<Point x="1838" y="1900"/>
+	<Point x="1825" y="1900"/>
+	<Point x="1816" y="1893"/>
+	<Point x="1803" y="1893"/>
+	<Point x="1793" y="1900"/>
+	<Point x="1780" y="1900"/>
+	<Point x="1770" y="1896"/>
+	<Point x="1777" y="1887"/>
+	<Point x="1783" y="1874"/>
+	<Point x="1790" y="1864"/>
+	<Point x="1796" y="1854"/>
+	<Point x="1800" y="1841"/>
+	<Point x="1803" y="1829"/>
+	<Point x="1806" y="1819"/>
+	<Point x="1809" y="1809"/>
+	<Point x="1812" y="1796"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬂ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r1600">
+	<Coords>
+	<Point x="748" y="2212"/>
+	<Point x="764" y="2212"/>
+	<Point x="774" y="2216"/>
+	<Point x="783" y="2222"/>
+	<Point x="783" y="2235"/>
+	<Point x="780" y="2245"/>
+	<Point x="777" y="2258"/>
+	<Point x="777" y="2270"/>
+	<Point x="774" y="2280"/>
+	<Point x="770" y="2290"/>
+	<Point x="767" y="2300"/>
+	<Point x="764" y="2312"/>
+	<Point x="754" y="2316"/>
+	<Point x="729" y="2316"/>
+	<Point x="722" y="2306"/>
+	<Point x="725" y="2296"/>
+	<Point x="725" y="2283"/>
+	<Point x="729" y="2270"/>
+	<Point x="732" y="2258"/>
+	<Point x="735" y="2248"/>
+	<Point x="738" y="2238"/>
+	<Point x="738" y="2225"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>j</Unicode></TextEquiv></Glyph>
+	<Glyph id="r1601">
+	<Coords>
+	<Point x="1641" y="3470"/>
+	<Point x="1696" y="3470"/>
+	<Point x="1696" y="3483"/>
+	<Point x="1693" y="3493"/>
+	<Point x="1693" y="3506"/>
+	<Point x="1690" y="3516"/>
+	<Point x="1687" y="3529"/>
+	<Point x="1683" y="3541"/>
+	<Point x="1680" y="3551"/>
+	<Point x="1677" y="3561"/>
+	<Point x="1674" y="3574"/>
+	<Point x="1664" y="3580"/>
+	<Point x="1651" y="3580"/>
+	<Point x="1641" y="3577"/>
+	<Point x="1629" y="3574"/>
+	<Point x="1619" y="3570"/>
+	<Point x="1606" y="3570"/>
+	<Point x="1600" y="3561"/>
+	<Point x="1603" y="3551"/>
+	<Point x="1606" y="3541"/>
+	<Point x="1612" y="3532"/>
+	<Point x="1616" y="3522"/>
+	<Point x="1622" y="3512"/>
+	<Point x="1625" y="3500"/>
+	<Point x="1632" y="3490"/>
+	<Point x="1635" y="3480"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ﬂ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r1602">
+	<Coords>
+	<Point x="748" y="4277"/>
+	<Point x="803" y="4277"/>
+	<Point x="812" y="4283"/>
+	<Point x="803" y="4293"/>
+	<Point x="800" y="4303"/>
+	<Point x="796" y="4316"/>
+	<Point x="793" y="4329"/>
+	<Point x="787" y="4338"/>
+	<Point x="780" y="4348"/>
+	<Point x="777" y="4358"/>
+	<Point x="770" y="4367"/>
+	<Point x="767" y="4377"/>
+	<Point x="761" y="4387"/>
+	<Point x="722" y="4387"/>
+	<Point x="719" y="4377"/>
+	<Point x="722" y="4367"/>
+	<Point x="729" y="4358"/>
+	<Point x="732" y="4348"/>
+	<Point x="738" y="4338"/>
+	<Point x="741" y="4325"/>
+	<Point x="745" y="4312"/>
+	<Point x="748" y="4300"/>
+	<Point x="751" y="4290"/>
+	<Point x="758" y="4280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>j</Unicode></TextEquiv></Glyph></Word></TextLine></TextRegion></Page></PcGts>
