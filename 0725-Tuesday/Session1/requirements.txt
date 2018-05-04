@@ -1,4 +1,2 @@
-pymarc
-re
-csv
-bs4
+pymarc==3.1.6
+bs4==4.6.0
